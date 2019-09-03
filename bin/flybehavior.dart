@@ -1,0 +1,3 @@
+class FlyBehavior {
+  String fly(){}
+}
